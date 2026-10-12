@@ -1,9 +1,9 @@
-Do you have a project that requires TTL signals? Are you tired of having to plug in your function generator? Would you like to remotely enable your project? Well... you are in luck! Backyard Brains has your back.
+The BYB Backpack is a small, portable two-channel Bluetooth signal generator for safe, general-purpose microstimulation in K-12 classrooms. This app is the remote.
 
-Using this app and the BYB Backpack, our lightweight, portable two-channel Bluetooth signal generator, you can remotely enable TTL signals! Simply connect to the standard 0.1" header, and you can control two independent square-wave pulse trains with a swipe of your finger on your phone. The BYB Backpack is a great addition to your electronics workbench!
+Tap Find Signal Generator to connect to the nearest backpack. Swipe left or right to send a pulse train on either output. In Settings you choose the signal: frequency, pulse width, duration, gain, and a random mode.
 
-Using this app, you choose the type of signal to generate: frequency, pulse width, duration, gain, and a random mode.
+The backpack and this app were developed with funding from the National Institutes of Health (NIH).
 
-Note: you need the BYB Backpack hardware from Backyard Brains to use this app.
+Connect the backpack through the standard 0.1" header. You need the BYB Backpack hardware from Backyard Brains to use this app.
 
 BYB Backpack uses Bluetooth. On Android 11 and older it also needs Location turned on so your phone can find nearby Bluetooth devices. The app does not collect or share any personal data.
