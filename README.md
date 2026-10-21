@@ -1,9 +1,11 @@
 # BYB Backpack (Android)
 
-BYB Backpack is the Bluetooth remote for the Backyard Brains RoboRoach backpack (a tiny signal
-generator): find the nearest one, swipe left or right to send a pulse train, and set frequency,
+BYB Backpack is the Bluetooth remote for the Backyard Brains BYB Backpack, a small two-channel
+signal generator for safe, general-purpose microstimulation in K-12 classrooms (developed with
+NIH funding): find the nearest one, swipe left or right to send a pulse train, and set frequency,
 pulse width, duration, gain and random mode. Long-pressing the **BYB Backpack** title toggles
-Retro mode, the classic roach-and-backpack look. Package `com.backyardbrains.bybbackpack`.
+Retro mode, the classic roach-and-backpack look (hidden; not in the store listing). Package
+`com.backyardbrains.bybbackpack`.
 
 The iOS counterpart is called BYB Remote
 ([App Store](https://apps.apple.com/us/app/byb-remote/id792968848)); its source lives in
